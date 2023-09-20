@@ -21,4 +21,4 @@ Dossier | Description
 /usr | Contient les fichiers, les bibliothèques et les ressources partagées utilisées par les applications installées.
 /var | Contient les données variables du système, telles que les fichiers journaux (logs), les spools d'impression et les bases de données.
 
-Notez que certaines distributions Linux peuvent varier par rapport à cette norme pour répondre à leurs besoins spécifiques, mais la plupart des distributions respectent les principes fondamentaux de cette norme.
+> *Notez* que certaines distributions Linux peuvent varier par rapport à cette norme pour répondre à leurs besoins spécifiques, mais la plupart des distributions respectent les principes fondamentaux de cette norme.
